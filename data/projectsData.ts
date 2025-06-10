@@ -1,15 +1,22 @@
 const projectsData = [
     {
+        title: 'Codeforces Vscode Extension',
+        description: `Vscode extension to practice codeforces problems directly from vscode. Browse, filter, test, and submit problems seamlessly!`,
+        imgSrc: '/static/images/codeforces.png',
+        href: 'https://marketplace.visualstudio.com/items?itemName=codewithsathya.codeforces-pro',
+        github: 'https://github.com/codewithsathya/vscode-codeforces'
+    },
+    {
         title: 'Leetnotion',
         description: `Solve LeetCode problems in VSCode and keep your submissions in sync with your Ultimate LeetCode Tracker template in Notion`,
-        imgSrc: '/static/images/leetnot.png',
+        imgSrc: '/static/images/leetnotion.png',
         href: 'https://marketplace.visualstudio.com/items?itemName=leetnotion.vscode-leetnotion',
         github: 'https://github.com/Leetnotion/vscode-leetnotion'
     },
     {
         title: 'Photopia',
         description: `A social media app made with NodeJS for a college hackathon`,
-        imgSrc: '/static/images/photo2.png',
+        imgSrc: '/static/images/photopia.png',
         href: 'https://photopia.codewithsathya.com',
         github: 'https://github.com/Nagulapally-Anudeep/photopia'
     },
